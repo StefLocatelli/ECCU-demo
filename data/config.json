@@ -1,6 +1,6 @@
 {
   "id": "ec",
-  "documentName": "Hamilton Letters 2",
+  "documentName": "Hamilton Letters",
   "iiifManifest": "/eccu-demo/hamilton/iiif/manifest.json",
   "transcriptionTypes": {
     "text": "Transcription"
