@@ -4,5 +4,5 @@ import react from "@astrojs/react";
 // https://astro.build/config
 export default defineConfig({
   integrations: [react()],
-  base: '/eccu-demo',
+  base: '/ECCU-demo',
 });
